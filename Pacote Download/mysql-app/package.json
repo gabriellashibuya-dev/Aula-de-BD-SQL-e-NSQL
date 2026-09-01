@@ -1,0 +1,17 @@
+{
+  "name": "mysql-app",
+  "version": "1.0.0",
+  "description": "Conversor decimal->binario com MySQL",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.22.2",
+    "mysql2": "^3.24.2"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}

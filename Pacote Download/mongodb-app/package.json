@@ -1,0 +1,17 @@
+{
+  "name": "mongodb-app",
+  "version": "1.0.0",
+  "description": "Conversor decimal->binario com MongoDB",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.22.2",
+    "mongodb": "^6.21.0"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}
